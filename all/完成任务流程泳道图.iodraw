@@ -29,7 +29,7 @@
           <mxGeometry x="120" y="86" width="75" height="28" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-933" value="进入客户端" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="96" y="145" width="86" height="40" as="geometry" />
+          <mxGeometry x="120" y="145" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-934" value="是否有完成的任务" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="344" y="138" width="115" height="54" as="geometry" />
