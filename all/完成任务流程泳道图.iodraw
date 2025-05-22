@@ -25,6 +25,9 @@
         <mxCell id="ELuROfRh7jPEYIWg2EeA-931" value="&lt;font style=&quot;font-size: 20px&quot;&gt;完成任务流程&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="47" y="-10" width="1201" height="34" as="geometry" />
         </mxCell>
+        <mxCell id="i1zHh0OpXGFy37QaiUim-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ELuROfRh7jPEYIWg2EeA-932" target="ELuROfRh7jPEYIWg2EeA-933">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-932" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="125.5" y="90" width="75" height="28" as="geometry" />
         </mxCell>
@@ -32,10 +35,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-933" value="新开簿记" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="120" y="145" width="86" height="40" as="geometry" />
+          <mxGeometry x="120" y="220" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i1zHh0OpXGFy37QaiUim-1" value="簿记检查" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="123" y="245" width="80" height="80" as="geometry" />
+          <mxGeometry x="123" y="320" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
