@@ -26,7 +26,7 @@
           <mxGeometry x="47" y="-10" width="1201" height="34" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-932" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="120" y="86" width="75" height="28" as="geometry" />
+          <mxGeometry x="125.5" y="90" width="75" height="28" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-933" value="进入客户端" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="120" y="145" width="86" height="40" as="geometry" />
@@ -52,7 +52,7 @@
         <mxCell id="ELuROfRh7jPEYIWg2EeA-962" value="学习课件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="224" y="386" width="74" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="ELuROfRh7jPEYIWg2EeA-963" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="ELuROfRh7jPEYIWg2EeA-933" edge="1" source="ELuROfRh7jPEYIWg2EeA-926">
+        <mxCell id="ELuROfRh7jPEYIWg2EeA-963" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" target="ELuROfRh7jPEYIWg2EeA-933" edge="1" source="ELuROfRh7jPEYIWg2EeA-932">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="139" y="119" as="sourcePoint" />
             <mxPoint x="97" y="615" as="targetPoint" />
